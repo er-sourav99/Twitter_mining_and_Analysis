@@ -1,0 +1,2 @@
+# Twitter_mining_and_Analysis
+With over 500 million tweets per day, you can imagine how rich with information this platform is. The objective of this project is to gather and analyze twitter data in order to discover interesting information and hidden patterns. Twitter is a microblogging and social networking service where users post content and interact with posts known as “tweets”. Today, Twitter has popularized the use of hashtags as a way to group conversations and allow users to follow conversations on particular topics.
